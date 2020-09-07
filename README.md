@@ -35,3 +35,7 @@ Gitee 一直有在开发者们中听到「我有想参与开源，但我不知�
 #### 报名方式
 1.请点击报名链接，完成表单填写即可报名。
 2.添加社群，实时沟通协作进展并参与后续抽奖环节
+
+***
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
