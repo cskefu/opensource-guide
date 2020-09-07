@@ -38,7 +38,7 @@ Gitee 一直有在开发者们中听到 **「我有想参与开源，但我不�
 
 #### Gitee 审校人员
 
-@李泽辰 @范秋璇 @詹钰 
+@xiaoyuding  @aguilera  @tenngoxars 
 
 ***
 
