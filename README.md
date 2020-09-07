@@ -11,7 +11,7 @@ Gitee 一直有在开发者们中听到「我有想参与开源，但我不知�
 
 具体内容包括但不限于：
 
-* 开源知识理念，见目录
+* 开源知识理念，见[目录](https://gitee.com/oschina/gitee-osguide/blob/master/%E7%9B%AE%E5%BD%95.md)
 
 * 最佳实践/案例
 #### 参与者要求
