@@ -53,7 +53,7 @@ Gitee 一直有在开发者们中听到 **「我有想参与开源，但我不�
 **张亮**   
 京东数科数字技术中心架构专家，Apache ShardingSphere，ElasticJob 创始人。热爱开源，擅长以 Java 为主分布式架构，推崇优雅代码。  
 目前主要精力投入在将分布式数据库中间件 Apache ShardingSphere 打造为业界一流的金融级数据解决方案之上。  
-Apache ShardingSphere(https://github.com/apache/shardingsphere)是京东主导的首个 Apache 软件基金会顶级项目，也是 Apache 软件基金会首个分布式数据库中间件。曾出版书籍《未来架构——从服务化到云原生》。  
+Apache ShardingSphere 是京东主导的首个 Apache 软件基金会顶级项目，也是 Apache 软件基金会首个分布式数据库中间件。曾出版书籍《未来架构——从服务化到云原生》。  
       
 **卫剑钒**   
 开源“圣经”《大教堂与集市》中文版译者，国际信息系统安全认证专家（CISSP），目前就职于某大型金融机构，从事信息科技管理工作。曾发表过《开源的7大理念》、《从契约精神谈MIT协议》、《copyright的真正含义是什么》、《步进式解读Apache许可证》、《使用Apache协议的是自由软件吗》等文章。
