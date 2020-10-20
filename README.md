@@ -8,7 +8,7 @@
 
 #### 快速引导  
 - [目录](https://gitee.com/oschina/gitee-osguide/blob/master/%E7%9B%AE%E5%BD%95.md)    
-- [编写指南](https://gitee.com/oschina/gitee-osguide/blob/master/%E7%BC%96%E5%86%99%E6%8C%87%E5%8D%97.md)
+- [编写规则](https://gitee.com/oschina/gitee-osguide/blob/master/编写规则.md)
 
 
 #### 《开源指北》制作流程
