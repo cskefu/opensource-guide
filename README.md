@@ -9,8 +9,8 @@
 #### 快速引导  
 - [目录](https://gitee.com/oschina/gitee-osguide/blob/master/%E7%9B%AE%E5%BD%95.md)    
 - [编写指南](https://gitee.com/oschina/gitee-osguide/blob/master/编写指南.md)  
-- 加入编写社群，获取活动实时信息，抽取惊喜好礼 
-添加 Gitee 小助手（gitee2013），备注「1024」，拉你入群     
+- 加入编写社群，获取活动实时信息，抽取惊喜好礼   
+添加 Gitee 小助手（gitee2013），备注「1024」，拉你入群       
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0712/212657_b00725ef_1899542.png "150-小助手微信.png")   
 
 
