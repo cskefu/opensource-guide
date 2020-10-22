@@ -68,7 +68,10 @@ Apache ShardingSphere 是京东主导的首个 Apache 软件基金会顶级项�
 **卫剑钒**   
 开源“圣经”《大教堂与集市》中文版译者，国际信息系统安全认证专家（CISSP），目前就职于某大型金融机构，从事信息科技管理工作。曾发表过《开源的7大理念》、《从契约精神谈MIT协议》、《copyright的真正含义是什么》、《步进式解读Apache许可证》、《使用Apache协议的是自由软件吗》等文章。  
     
-（其他审校人员待公布） 
+（其他审校人员待公布）   
+  
+#### 支持社区
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0717/172217_6c1cd6a2_1899542.png "oschina.png") 
   
 
 ### Lisence
