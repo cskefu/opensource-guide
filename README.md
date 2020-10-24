@@ -74,6 +74,6 @@ Apache ShardingSphere 是京东主导的首个 Apache 软件基金会顶级项�
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1022/103242_6effa34d_1899542.png "支持社区.png")
   
 
-### Lisence
+### License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://images.gitee.com/uploads/images/2020/0907/190809_d6adca86_5694891.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。
