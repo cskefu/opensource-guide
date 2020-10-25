@@ -8,7 +8,7 @@
 
 ####  :tw-27a1: 快速引导  
 1. 查看[目录](https://gitee.com/oschina/gitee-osguide/blob/master/%E7%9B%AE%E5%BD%95.md) ，了解本次电子书需编写的章节内容         
-2. 查看[内容编写进度](https://gitee.com/oschina/gitee-osguide/board?issue_type_id=261607)，若感兴趣的章节处于“待编写”或“待补充”的状态，则可在[目录](https://gitee.com/oschina/gitee-osguide/blob/master/%E7%9B%AE%E5%BD%95.md)中点击该章节 ，评论 「id+预计完成时间」领取编写任务，工作人员回复“已确定”则可开始编写            
+2. 查看[内容编写进度](https://gitee.com/oschina/gitee-osguide/board?issue_type_id=261607)，若感兴趣的章节处于“待编写”或“待补充”的状态，则可在[目录](https://gitee.com/oschina/gitee-osguide/blob/master/%E7%9B%AE%E5%BD%95.md)中点击该章节 ，评论 「id+预计完成时间」领取编写任务，工作人员更改编写状态，回复“已确定”则可开始编写            
 详情请查看>>[编写指南](https://gitee.com/oschina/gitee-osguide/blob/master/编写指南.md)          
 3. 加入编写社群，提交领取章节，获取活动实时信息，抽取惊喜好礼     
 添加 Gitee 小助手（gitee2013），备注「1024」，拉你入群       
