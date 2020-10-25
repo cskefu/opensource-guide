@@ -7,10 +7,10 @@
 那么，开源的问题为什么不用开源的方式去解决呢？于是现在有了这样一个仓库，我们邀请广大开发者、开源爱好者、开源社区等与我们一起编写这本 **《开源指北》** ，分享自己对开源的认识和参与开源实践的经历，为那些想参与开源的开发者们提供一个丰富详实的操作指南，让更多开发者认识开源、参与开源、爱上开源。
 
 ####  :tw-27a1: 快速引导  
-- 1、查看[目录](https://gitee.com/oschina/gitee-osguide/blob/master/%E7%9B%AE%E5%BD%95.md) ，查看编写章节内容       
-- 2、查看[内容编写情况](https://gitee.com/oschina/gitee-osguide/board?issue_type_id=261607)，若感兴趣的章节处于“待编写”或“待补充”的状态，则可在[目录](https://gitee.com/oschina/gitee-osguide/blob/master/%E7%9B%AE%E5%BD%95.md)中点击该章节 ，评论 「id+预计完成时间」领取编写任务，工作人员回复“已确定”则可开始编写            
+1. 查看[目录](https://gitee.com/oschina/gitee-osguide/blob/master/%E7%9B%AE%E5%BD%95.md) ，查看编写章节内容       
+2. 查看[内容编写情况](https://gitee.com/oschina/gitee-osguide/board?issue_type_id=261607)，若感兴趣的章节处于“待编写”或“待补充”的状态，则可在[目录](https://gitee.com/oschina/gitee-osguide/blob/master/%E7%9B%AE%E5%BD%95.md)中点击该章节 ，评论 「id+预计完成时间」领取编写任务，工作人员回复“已确定”则可开始编写            
 详情请查看[编写指南](https://gitee.com/oschina/gitee-osguide/blob/master/编写指南.md)        
-- 3、加入编写社群，提交领取章节，获取活动实时信息，抽取惊喜好礼     
+3. 加入编写社群，提交领取章节，获取活动实时信息，抽取惊喜好礼     
 添加 Gitee 小助手（gitee2013），备注「1024」，拉你入群       
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0712/212657_b00725ef_1899542.png "150-小助手微信.png")   
 
