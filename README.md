@@ -72,7 +72,7 @@ Apache ShardingSphere 是京东主导的首个 Apache 软件基金会顶级项�
 （其他审校人员待公布）   
   
 ####  :tw-1f3e1: 支持社区
-![输入图片说明](https://images.gitee.com/uploads/images/2020/1022/103242_6effa34d_1899542.png "支持社区.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1026/144238_d80f414b_1899542.png "10-26支持社区.png")
   
 
 ### License
