@@ -128,7 +128,7 @@ Issue 的翻译大致为**议题**、**问题**。
 
 [https://gitee.com/sentsin/layui/issues/I1OD1P](https://gitee.com/sentsin/layui/issues/I1OD1P)
 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/1103/095715_67d435b1_1277510.png "image-20201102231520201.png")
+![有价值案例2](https://images.gitee.com/uploads/images/2020/1103/095715_67d435b1_1277510.png "image-20201102231520201.png")
 
 该案例同样的使用了清晰明了的标题表述形式，内容中还具体贴出了自己尝试的代码，便于作者提供帮助或定位问题。属于有价值案例。
 
