@@ -226,6 +226,72 @@ Issue 在提出之后，对于个人版来说可以有四种状态：待办的�
 
 ![看板页面](https://images.gitee.com/uploads/images/2020/1104/122400_f9648c84_1277510.png "image-20201104120934433.png")
 
+#### @ 提及别人
+
+使用`@`符号可以在 Issue 提出或者问题讨论的过程中提及别人，起到被 `艾特`的效果。
+
+#### # 关联其他 Issue
+
+使用`#`符号再加上其他 Issue 的编号，可以关联到其它的 Issue。找到本仓库下 Issue 的编号之后写上即可。
+
+找到Issue编号（这里为`#I23WUE`）：
+
+![找到Issue编号](https://images.gitee.com/uploads/images/2020/1104/151115_93315a5e_1277510.png "image-20201104141131901.png")
+
+支持快速点击，提交 Issue 之后会自动生成链接，链接到该 Issue：
+
+![支持快速点击](https://images.gitee.com/uploads/images/2020/1104/151142_abdbc1da_1277510.png "image-20201104141338952.png")
+
+#### 通过筛选器快速找到 Issue
+
+可以通过搜索框输入关键词搜索 Issue，也可以通过下方的一些搜索条件来搜索 Issue。有了筛选器，当我们的 Issue 非常多时，我们就可以在众多的 Issue 中找到自己需要的 Issue 了。
+
+> 当你将各种 Issue 维护好对应的标签之后，可以快速找到属于某个标签的 Issue 结果进行处理。
+
+![快速搜索Issue](https://images.gitee.com/uploads/images/2020/1104/151211_cfa06098_1277510.png "image-20201104142549944.png")
+
+#### 在 commit 中关闭 Issue
+
+比如在修复一个 bug 时，某一次 commit 就是解决了提这个 bug 的 Issue 的，那么我们可以轻松的在 commit 的内容中附带上一些特殊信息（在 commit 信息中或者附加信息中均可），来自动关闭 Issue。
+
+Gitee 支持的提交方式有（比如我们需要关闭的 Issue 编号为 24，`+`号表示在提交的内容中添加后面部分的内容）<sup>[4]</sup>：
+
+```markdown
+# 任选其一即可！
++ fix #24
++ fixed #24
++ close #24
++ closes #24
++ closed #24
++ resolved #24
+```
+
+![在提交的内容中添加关闭Issue的信息](https://images.gitee.com/uploads/images/2020/1104/151238_25c34fd1_1277510.png "image-20201104144448225.png")
+
+#### Issue 中的待办清单
+
+不知道大家是否在 Issue 中有一些任务需要分步骤完成呢？如下面示例的 Issue，可以实现待办清单的功效<sup>[4]</sup>。可以根据后续的需要，勾选或者取消勾选待办清单中的分项任务，实现 checklist 的效果。
+
+> 勾选或取消勾选后，重新进入该 Issue，选择的状态依然存在，而且这种操作会保存到该 Issue 的操作日志当中去。修改状态，不再需要重新编辑该 Issue 了。非常方便。
+
+![Issue待办清单效果演示](https://images.gitee.com/uploads/images/2020/1104/151304_d991149d_1277510.png "image-20201104150040988.png")
+
+那么，需要拥有这样的待办清单，提 Issue 的时候应该怎么写呢？请看代码：
+
+```markdown
+通过特有的语法可以实现待办清单的功效，修改待办清单里面的项目是否完成无需再打开 Issue 的编辑界面了！
+
+* [x] 吃早餐
+
+* [ ] 吃午餐
+
+* [ ] 吃晚餐
+```
+
+通过`* [x]`来创建已勾选的事项，通过`* [ ]`来创建未勾选的事项即可。请注意，未勾选时，方括号之间会有一个空格，不要漏掉了。
+
+
+
 
 
 ### 参考资料
@@ -235,3 +301,5 @@ Issue 在提出之后，对于个人版来说可以有四种状态：待办的�
 [2] [https://zhuanlan.zhihu.com/p/75691927](https://zhuanlan.zhihu.com/p/75691927)
 
 [3] [https://blog.csdn.net/lovewinner/article/details/80763629](https://blog.csdn.net/lovewinner/article/details/80763629)
+
+[4] [https://www.jianshu.com/p/5ba1e7f5ad70](https://www.jianshu.com/p/5ba1e7f5ad70)
