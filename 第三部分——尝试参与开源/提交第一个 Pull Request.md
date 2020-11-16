@@ -48,8 +48,6 @@
 
 1. 使用 B 帐号登录 GitHub，进入 pull_request_demo 仓库，点击 Pull request 链接。
 
-1. 使用 B 帐号登录 GitHub，进入 pull_request_demo 仓库，点击 Pull request 链接。
-
 1. 选择 base 和 head 仓库。点击 "New pull request"按钮。
 
 1. 填写提交说明后，"Create pull request"
