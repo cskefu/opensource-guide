@@ -76,9 +76,7 @@ ps：请添加小助手微信领取证书/纪念 T 恤
 **张亮**     
 京东数科数字技术中心架构专家，Apache ShardingSphere，ElasticJob 创始人。热爱开源，擅长以 Java 为主分布式架构，推崇优雅代码。  
 目前主要精力投入在将分布式数据库中间件 Apache ShardingSphere 打造为业界一流的金融级数据解决方案之上。  
-Apache ShardingSphere 是京东主导的首个 Apache 软件基金会顶级项目，也是 Apache 软件基金会首个分布式数据库中间件。曾出版书籍《未来架构——从服务化到云原生》。  
-    
-（其他审校人员待公布）   
+Apache ShardingSphere 是京东主导的首个 Apache 软件基金会顶级项目，也是 Apache 软件基金会首个分布式数据库中间件。曾出版书籍《未来架构——从服务化到云原生》。      
   
 ####  🎪 支持社区
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1126/135201_1f86cd37_1899542.png "支持社区-11-26.png")   
