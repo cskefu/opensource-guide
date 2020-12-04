@@ -26,7 +26,7 @@ Pull Request 本质上是一种协同工作的机制，可以进行基于网络�
 1. 在本地提交 README.md
 
    ```
-   echo "# " >> README.md
+   echo "pull_request_demo from A" >> README.md
    git init
    git add README.md
    git commit -m "first commit"
@@ -41,9 +41,9 @@ Pull Request 本质上是一种协同工作的机制，可以进行基于网络�
 
    ```
    git clone https://github.com/B/pull_request_demo
-   echo "# add form B" >> README.md
+   echo "pull_request_demo add form B" >> README.md
    git add README.md
-   git commit -m "modify "
+   git commit -m "modify commit"
    git push
    ```
 
