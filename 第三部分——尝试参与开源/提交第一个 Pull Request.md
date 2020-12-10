@@ -5,12 +5,17 @@
 文章以 GitHub 为基准，需要补充 Gitee 的相关操作
 ```
 
+```
+merge pull request的流程相对简单，是通过两个自己项目的repo进行的阐述，需要补充权限说明，code review，approve，CI机制等  
+```
+
 
 ####  什么是 Pull Request
 
 这个是由 GitHub 提出的概念。根据 GitHub 的官方文档，Pull Request 是一种通知机制，它可以告知仓库的其他开发者，你推送了一个仓库新分支。 通过Pull Request ，你可以和仓库的协作者一起讨论和审查提交的代码，审查通过后，就可以提交到仓库的主分支中。
 
 Pull Request 本质上是一种协同工作的机制，可以进行基于网络的多人提交，审核机制，审核通过后，就可以合并到主分支中。
+
 
 ####  提交 Pull Request 的步骤
 
