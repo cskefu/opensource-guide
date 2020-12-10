@@ -15,7 +15,7 @@
 
 2. 所有编写者（符合规则的 PR 并被评审团合并）都可获得纪念 T 恤一件
 
-3. 贡献榜 前 10 名（前三位官方维护人员除外）可获得 TiBD 文具礼盒 + 公牛魔方插座一份  
+3. [贡献榜](https://gitee.com/gitee-community/opensource-guide/contributors?ref=master) 前 10 名（前三位官方维护人员除外）可获得 TiBD 文具礼盒 + 公牛魔方插座一份  
   
 #### 📜 修订内容
 | 章节名  |  修订任务  | 链接  |
