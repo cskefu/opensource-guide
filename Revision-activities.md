@@ -6,7 +6,7 @@
 [开源指北项目主页>>](https://gitee.com/gitee-community/opensource-guide)          
   
 #### ⏱ 修订时间
-2020 年 12 月 10 日 - 12 月 18 日                 
+2020 年 12 月 10 日 - 12 月 20 日                 
   
 #### ❓ 修订规则 
 你可以通过 **轻量级 PR**  或  **Fork+ PR**  两种方式修订  
