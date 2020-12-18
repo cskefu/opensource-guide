@@ -19,7 +19,7 @@
 
 2. 优秀贡献者（提交 PR 内容优质且符合规则，并被评审团合并）可获得纪念 T 恤一件
 
-3. [贡献榜](https://gitee.com/gitee-community/opensource-guide/contributors?ref=master) 前 10 名（前三位官方维护人员除外）可获得 TiBD 开发文具礼盒 一份  
+3. [贡献榜](https://gitee.com/gitee-community/opensource-guide/contributors?ref=master) 前 10 名（前三位官方维护人员除外）可获得 TiDB 开发文具礼盒 一份  
   
 #### 📜 待修订章节
 | 章节名  |  修订任务  | 链接  |
