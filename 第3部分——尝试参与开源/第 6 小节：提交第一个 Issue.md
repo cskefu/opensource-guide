@@ -71,7 +71,7 @@ Issue 的翻译大致为**议题**、**问题**。
 
 先使用方括号（也可以使用`【】`替代方括号），里面写上分类、标签或某文件名（比如这个文件有问题待修改），这部分是便于作者进行问题分类的，也方便其他协作者查找（很多人提 Issue 并没有这一部分，建议加上）。然后使用简短的描述，可以让人通过标题快速了解这个 Issue 是讲什么内容的。
 
-案例：`[Bug]app.py文件173行运行报错，疑似遗漏一个=号`
+案例：`[Bug]app.py文件 173 行运行报错，疑似遗漏一个=号`
 
 #### 提出一个 Issue
 
@@ -123,7 +123,7 @@ Issue 的翻译大致为**议题**、**问题**。
 
 [https://gitee.com/sentsin/layui/issues/I1SS5Z](https://gitee.com/sentsin/layui/issues/I1SS5Z)
 
-![无价值案例1](https://images.gitee.com/uploads/images/2020/1103/095610_3fe4df54_1277510.png "image-20201102230656555.png")
+![无价值案例 1](https://images.gitee.com/uploads/images/2020/1103/095610_3fe4df54_1277510.png "image-20201102230656555.png")
 
 该案例的标题仅两个字`表格`，作者如果不点进 Issue 的具体内容则无法获知到底这个 Issue 说的是什么。属于无价值案例。
 
@@ -131,7 +131,7 @@ Issue 的翻译大致为**议题**、**问题**。
 
 [https://gitee.com/sentsin/layui/issues/I1PQVC](https://gitee.com/sentsin/layui/issues/I1PQVC)
 
-![无价值案例2](https://images.gitee.com/uploads/images/2020/1103/095627_8b4fadf6_1277510.png "image-20201102230927454.png")
+![无价值案例 2](https://images.gitee.com/uploads/images/2020/1103/095627_8b4fadf6_1277510.png "image-20201102230927454.png")
 
 该案例最抓人眼球的应该是那一长串的`!`号，画面都快容不下了，而且作者在看这样的标题的时候也无法获知到底是个什么问题，有一种过分夸张的感觉。属于无价值案例。
 
@@ -141,7 +141,7 @@ Issue 的翻译大致为**议题**、**问题**。
 
 [https://gitee.com/sentsin/layui/issues/I1OFU3](https://gitee.com/sentsin/layui/issues/I1OFU3)
 
-![有价值案例1](https://images.gitee.com/uploads/images/2020/1103/095655_074d520b_1277510.png "image-20201102231303010.png")
+![有价值案例 1](https://images.gitee.com/uploads/images/2020/1103/095655_074d520b_1277510.png "image-20201102231303010.png")
 
 标题清晰明了，作者可以轻松获知 Issue 的主体内容。内容贴出了自己尝试的代码，便于作者提供帮助。属于有价值案例。
 
@@ -149,7 +149,7 @@ Issue 的翻译大致为**议题**、**问题**。
 
 [https://gitee.com/sentsin/layui/issues/I1OD1P](https://gitee.com/sentsin/layui/issues/I1OD1P)
 
-![有价值案例2](https://images.gitee.com/uploads/images/2020/1103/095715_67d435b1_1277510.png "image-20201102231520201.png")
+![有价值案例 2](https://images.gitee.com/uploads/images/2020/1103/095715_67d435b1_1277510.png "image-20201102231520201.png")
 
 该案例同样使用了清晰明了的标题表述形式，内容中还具体贴出了自己尝试的代码，便于作者提供帮助或定位问题。属于有价值案例。
 
