@@ -83,3 +83,7 @@ Pull Request 本质上是一种协同工作的机制，可以进行基于网络�
 是的，在此时您的心中可能已经有了一个猜想，而我们在这里也可以告诉你这个猜想没有问题
 
 像这些仓库其实还有很多，而且通常是由全体自发的贡献者来自愿进行维护的，而你也可以成为其中的一员
+
+### 本部分内容贡献者
+
+[brace](https://gitee.com/awang)、[李志鹏](https://gitee.com/lizhipeng1992)、[ORH](https://gitee.com/orh)、[ShardingSphere](https://gitee.com/dangdangdotcom_zhangliang)、[冰彦糖](https://gitee.com/bingyantang)

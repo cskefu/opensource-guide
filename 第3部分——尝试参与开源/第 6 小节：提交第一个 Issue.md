@@ -327,3 +327,6 @@ Gitee 支持的提交方式有（比如我们需要关闭的 Issue 编号为 24�
 [3] [https://blog.csdn.net/lovewinner/article/details/80763629](https://blog.csdn.net/lovewinner/article/details/80763629)
 
 [4] [https://www.jianshu.com/p/5ba1e7f5ad70](https://www.jianshu.com/p/5ba1e7f5ad70)
+
+### 本部分内容贡献者
+[雪山凌狐](https://gitee.com/xueshanlinghu)、[taotieren](https://gitee.com/taotieren)、[吴烜](https://gitee.com/zhishi)
