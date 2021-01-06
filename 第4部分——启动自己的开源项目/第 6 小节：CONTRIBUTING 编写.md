@@ -1,4 +1,4 @@
-# CONTRIBUTING 编写
+# 第 6 小节：CONTRIBUTING 编写
 
 ## CONTRIBUTING 是什么
 
