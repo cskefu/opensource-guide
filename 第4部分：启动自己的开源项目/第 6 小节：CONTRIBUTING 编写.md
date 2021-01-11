@@ -61,4 +61,4 @@
 
 ### 本部分内容贡献者
 
-[huifer](https://gitee.com/pychfarm_admin)、[PureBlue](https://gitee.com/qq379377944)、[taotieren](https://gitee.com/taotieren)、[WhitePaper](https://gitee.com/whitepaper233)
+[huifer](https://gitee.com/pychfarm_admin)、[PureBlue](https://gitee.com/qq379377944)、[taotieren](https://gitee.com/taotieren)、[WhitePaper](https://gitee.com/whitepaper233)、[yadong.zhang](https://gitee.com/yadong.zhang)
