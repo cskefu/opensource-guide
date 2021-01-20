@@ -1,6 +1,6 @@
-## 开源有魔力-DolphinScheduler和我的开源之路
+## 开源有魔力-DolphinScheduler和我的开源历程
   
-  鲍亮，目前在易观数科大数据平台，负责平台建设工作，开源爱好者，DolphinScheduler PPMC， 一个有梦想的程序员。
+  鲍亮（leonbao），目前在易观数科大数据平台，负责平台建设工作，开源爱好者，DolphinScheduler PPMC， 一个有梦想的程序员。
 
 ### 开源的思考
 
