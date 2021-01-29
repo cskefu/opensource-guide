@@ -14,8 +14,8 @@
 添加 Gitee 小助手（gitee2013），备注「开源指北」，拉你入群       
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0712/212657_b00725ef_1899542.png "150-小助手微信.png")  
 
-#### 版本  
-开源指北 1.0 页面：https://gitee.com/opensource-guide/    
+#### 📎 版本  
+开源指北 1.0 版本：https://gitee.com/opensource-guide/    
     
 ####  🔁 《开源指北》制作流程
 
@@ -80,9 +80,9 @@
 目前主要精力投入在将分布式数据库中间件 Apache ShardingSphere 打造为业界一流的金融级数据解决方案之上。  
 Apache ShardingSphere 是京东主导的首个 Apache 软件基金会顶级项目，也是 Apache 软件基金会首个分布式数据库中间件。曾出版书籍《未来架构——从服务化到云原生》。      
   
-####  🎪 支持社区
+#### 🎪 支持社区
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1126/135201_1f86cd37_1899542.png "支持社区-11-26.png")   
 
-### License
+### 📌 License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://images.gitee.com/uploads/images/2020/0907/190809_d6adca86_5694891.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。
