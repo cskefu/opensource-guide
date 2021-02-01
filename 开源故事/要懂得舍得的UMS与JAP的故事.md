@@ -20,6 +20,6 @@
 > 项目认识了一个小伙伴, 加入了他的创业公司. 说了这么多就一句话: 我为人人, 人人为我.
 
 ## 如何接触/了解到这个开源项目
-> 通过第二个项目[JustAuth-security](https://gitee.com/pcore/just-auth-spring-security-starter ) 认识了 **GVP** 项目 [JustAuth](https://gitee.com/justauth ) 的作者, 也加入 [JustAuth](https://gitee.com/justauth ) 大家庭,  [JustAuth](https://gitee.com/justauth ) 作者今天刚推出了新的开源项目 [JPA](https://gitee.com/fujieid/jap) 我也成为其中的一员, 希望 2021 年 [JPA](https://gitee.com/fujieid/jap) 成为又一个 **GVP** 项目.
+> 通过第二个项目[JustAuth-security](https://gitee.com/pcore/just-auth-spring-security-starter ) 认识了 **GVP** 项目 [JustAuth](https://gitee.com/justauth ) 的作者, 也加入 [JustAuth](https://gitee.com/justauth ) 大家庭,  [JustAuth](https://gitee.com/justauth ) 作者今天刚推出了新的开源项目 [JAP](https://gitee.com/fujieid/jap) 我也成为其中的一员, 希望 2021 年 [JAP](https://gitee.com/fujieid/jap) 成为又一个 **GVP** 项目.
 
 ## 2021 加油!
