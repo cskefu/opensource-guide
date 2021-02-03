@@ -29,11 +29,55 @@ Pull Request 本质上是一种协同工作的机制，可以进行基于网络�
 
 #### 实际操作一下
 
+##### Gitee
+
+1. 在 Gitee 上建立两个帐号 A 和 B。
+
+2. 使用 A 帐号，新建仓库 pull_request_demo
+
+3. 在本地提交 README.md
+
+   ```
+   echo "pull_request_demo from A" >> README.md
+   git init
+   git add README.md
+   git commit -m "first commit"
+   git branch -M main
+   git remote add origin https://gitee.com/A/pull_request_demo.git
+   git push -u origin master
+   ```
+
+4. 使用 B 帐号登录 Gitee，然后 Fork 该项目。
+
+5. 下载项目到本地
+
+   ```
+   git clone https://gitee.com/B/pull_request_demo
+   echo "pull_request_demo add form B" >> README.md
+   git add README.md
+   git commit -m "modify commit"
+   git push
+   ```
+
+6. 使用 B 帐号登录 Gitee，进入 pull_request_demo 仓库，点击 「+ Pull request」链接。
+
+7. 选择 源分支 和 目标分支。
+
+8. 填写提交说明后，点击「创建」按钮。
+
+9. 使用 A 帐号登录 Gitee，进入 pull_request_demo 项目。
+
+10. 可以看到 Pull request 中有新的数据。
+
+11. 点击「合并」按钮，即可完成。
+
+##### Github
+
 1. 在 GitHub 上建立两个帐号 A 和 B。
 
-1. 使用 A 帐号，创建项目 pull_request_demo
+2. 使用 A 帐号，创建项目 pull_request_demo
    
-1. 在本地提交 README.md
+3. 在本地提交 README.md
 
    ```
    echo "pull_request_demo from A" >> README.md
@@ -45,9 +89,9 @@ Pull Request 本质上是一种协同工作的机制，可以进行基于网络�
    git push -u origin main
    ```
 
-1. 使用 B 帐号登录 GitHub，然后 Fork 该项目。
+4. 使用 B 帐号登录 GitHub，然后 Fork 该项目。
 
-1. 下载项目到本地
+5. 下载项目到本地
 
    ```
    git clone https://github.com/B/pull_request_demo
@@ -57,17 +101,17 @@ Pull Request 本质上是一种协同工作的机制，可以进行基于网络�
    git push
    ```
 
-1. 使用 B 帐号登录 GitHub，进入 pull_request_demo 仓库，点击 Pull request 链接。
+6. 使用 B 帐号登录 GitHub，进入 pull_request_demo 仓库，点击 Pull request 链接。
 
-1. 选择 base 和 head 仓库。点击「New pull request」按钮。
+7. 选择 base 和 head 仓库。点击「New pull request」按钮。
 
-1. 填写提交说明后，「Create pull request」。
+8. 填写提交说明后，「Create pull request」。
 
-1. 使用 A 帐号登录 GitHub，进行 pull_request_demo 项目。
+9. 使用 A 帐号登录 GitHub，进入 pull_request_demo 项目。
 
-1. 可以看到 Pull request 中有新的数据。
+10. 可以看到 Pull request 中有新的数据。
 
-1. 点击 Confirm merge，完成合并。
+11. 点击 Confirm merge，完成合并。
 
 #### 补充内容：参与公共的 PR 仓库来完成第一次PR尝试
 
