@@ -317,3 +317,5 @@ Gitee 支持的提交方式有（比如我们需要关闭的 Issue 编号为 24�
 
 ### 本部分内容贡献者
 [雪山凌狐](https://gitee.com/xueshanlinghu)、[taotieren](https://gitee.com/taotieren)、[吴烜](https://gitee.com/zhishi)
+
+> 发现内容中的错误？还是想要补充更多符合主题的内容？《开源指北》欢迎你进行贡献，点击[编写指南](./../编写指南.md)了解贡献的具体步骤。
