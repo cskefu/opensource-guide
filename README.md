@@ -33,13 +33,13 @@
 可以通过提交 [Issue](https://gitee.com/gitee-community/opensource-guide/issues/new?issue%5Bassignee_id%5D=0&issue%5Bmilestone_id%5D=0) 和 PR 的方式对「开源指北」做出贡献或是提出需求，更详尽的步骤可以参考[贡献指南](./贡献指南.md)。
 
 
-### 加入编写者社群    
+#### 加入编写者社群    
 如果你想和众多开源爱好者一起聊开源，添加 Gitee 小助手（gitee2013），备注「开源指北」，拉你入群。
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0712/212657_b00725ef_1899542.png "150-小助手微信.png")  
 
 
-#### 👩‍👩‍👧‍👦 审校专家团队   
+### 👩‍👩‍👧‍👦 审校专家团队   
 为保证电子文档的内容更有参考价值，Gitee 内容组特别邀请了几位技术专家担任本次的审校人员（以下名单按首字母排序）：    
        
 **代立冬**       
