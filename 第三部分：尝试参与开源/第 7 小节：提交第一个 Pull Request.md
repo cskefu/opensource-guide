@@ -120,4 +120,4 @@ Pull Request 本质上是一种协同工作的机制，可以进行基于网络�
 
 [brace](https://gitee.com/awang)、[李志鹏](https://gitee.com/lizhipeng1992)、[ORH](https://gitee.com/orh)、[ShardingSphere](https://gitee.com/dangdangdotcom_zhangliang)、[冰彦糖](https://gitee.com/bingyantang)
 
-> 发现内容中的错误？还是想要补充更多符合主题的内容？《开源指北》欢迎你进行贡献，点击[编写指南](./../编写指南.md)了解贡献的具体步骤。
+> 发现内容中的错误？还是想要补充更多符合主题的内容？《开源指北》欢迎你进行贡献，点击[贡献指南](./../贡献指南.md)了解贡献的具体步骤。
