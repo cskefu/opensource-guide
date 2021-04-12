@@ -88,9 +88,12 @@ Pull Request 本质上是一种协同工作的机制，可以进行基于网络�
 ##### Github
 
 1. 在 GitHub 上建立两个帐号 A 和 B。
+![账号A](https://images.gitee.com/uploads/images/2021/0412/210726_a1f2fb20_8456984.png "账号A.png")
+![账号B](https://images.gitee.com/uploads/images/2021/0412/210742_4cf5244b_8456984.png "账号B.png")
 
 2. 使用 A 帐号，创建项目 pull_request_demo
-   
+![新建仓库](https://images.gitee.com/uploads/images/2021/0412/210813_1923ef71_8456984.gif "新建仓库.gif")
+
 3. 在本地提交 README.md
 
    ```
@@ -102,8 +105,11 @@ Pull Request 本质上是一种协同工作的机制，可以进行基于网络�
    git remote add origin https://github.com/A/pull_request_demo.git
    git push -u origin main
    ```
+![本地提交](https://images.gitee.com/uploads/images/2021/0412/210834_1996cb81_8456984.gif "本地提交 README.md.gif")
 
 4. 使用 B 帐号登录 GitHub，然后 Fork 该项目。
+![Fork项目1](https://images.gitee.com/uploads/images/2021/0412/210900_ec78c0a3_8456984.png "B账号Fork项目1.png")
+![Fork项目2](https://images.gitee.com/uploads/images/2021/0412/210912_81ab2e4b_8456984.png "B账号Fork项目2.png")
 
 5. 下载项目到本地
 
@@ -114,18 +120,30 @@ Pull Request 本质上是一种协同工作的机制，可以进行基于网络�
    git commit -m "modify commit"
    git push
    ```
+![下载项目到本地](https://images.gitee.com/uploads/images/2021/0412/211003_c2c14ec9_8456984.gif "下载项目到本地.gif")
 
 6. 使用 B 帐号登录 GitHub，进入 pull_request_demo 仓库，点击 Pull request 链接。
+![Pull项目1](https://images.gitee.com/uploads/images/2021/0412/211325_db7cf976_8456984.png "pull_request1.png")
+![Pull项目2](https://images.gitee.com/uploads/images/2021/0412/211338_5f0754d0_8456984.png "pull_request2.png")
 
-7. 选择 base 和 head 仓库。点击「New pull request」按钮。
+7. 选择 base 和 head 仓库。点击「Create pull request」按钮。
+![选择Base仓库](https://images.gitee.com/uploads/images/2021/0412/211356_5be9f12f_8456984.png "base仓库.png")
+![选择Head仓库](https://images.gitee.com/uploads/images/2021/0412/211415_eb747ed6_8456984.png "head仓库.png")
+![点击Create pull request按钮](https://images.gitee.com/uploads/images/2021/0412/211618_853d205c_8456984.png "点击Create pull request按钮")
 
-8. 填写提交说明后，「Create pull request」。
+8. 填写提交说明后，点击「Create pull request」按钮。
+![填写说明](https://images.gitee.com/uploads/images/2021/0412/211746_ebc51069_8456984.png "填写说明.png")
+![提交](https://images.gitee.com/uploads/images/2021/0412/211802_7f52d86e_8456984.png "提交.png")
 
 9. 使用 A 帐号登录 GitHub，进入 pull_request_demo 项目。
+![进入项目1](https://images.gitee.com/uploads/images/2021/0412/211815_7a8e3dab_8456984.png "A账号进入项目1.png")
+![进入项目2](https://images.gitee.com/uploads/images/2021/0412/211832_21255b22_8456984.png "A账号进入项目2.png")
 
 10. 可以看到 Pull request 中有新的数据。
+![有数据](https://images.gitee.com/uploads/images/2021/0412/211849_884cb0ca_8456984.png "有新数据.png")
 
 11. 点击 Confirm merge，完成合并。
+![合并](https://images.gitee.com/uploads/images/2021/0412/213111_8df051bf_8456984.gif "合并.gif")
 
 #### 补充内容：参与公共的 PR 仓库来完成第一次PR尝试
 
