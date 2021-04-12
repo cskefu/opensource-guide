@@ -25,8 +25,13 @@ Pull Request 本质上是一种协同工作的机制，可以进行基于网络�
 ##### Gitee
 
 1. 在 Gitee 上建立两个帐号 A 和 B。
+![账号A](https://images.gitee.com/uploads/images/2021/0410/150351_aaf54390_8456984.png "账号A.png")
+![账号B](https://images.gitee.com/uploads/images/2021/0410/150408_a80b686f_8456984.png "账号B.png")
 
 2. 使用 A 帐号，新建仓库 pull_request_demo
+![新建仓库1](https://images.gitee.com/uploads/images/2021/0410/150429_3f7cb023_8456984.png "新建仓库1.png")
+![新建仓库2](https://images.gitee.com/uploads/images/2021/0410/150447_58b43a00_8456984.png "新建仓库2.png")
+![新建仓库3](https://images.gitee.com/uploads/images/2021/0410/150501_421219a8_8456984.png "新建仓库3.png")
 
 3. 在本地提交 README.md
 
@@ -40,7 +45,12 @@ Pull Request 本质上是一种协同工作的机制，可以进行基于网络�
    git push -u origin master
    ```
 
+![本地提交](https://images.gitee.com/uploads/images/2021/0410/150531_69fb8ed9_8456984.gif "在本地提交 README.md.gif")
+
 4. 使用 B 帐号登录 Gitee，然后 Fork 该项目。
+![Fork项目1](https://images.gitee.com/uploads/images/2021/0410/150546_b6c50179_8456984.png "B账号fork项目1.png")
+![Fork项目2](https://images.gitee.com/uploads/images/2021/0410/150559_4e6f6afc_8456984.png "B账号fork项目2.png")
+![Fork项目3](https://images.gitee.com/uploads/images/2021/0410/150610_4351a9ea_8456984.png "B账号fork项目3.png")
 
 5. 下载项目到本地
 
@@ -52,17 +62,28 @@ Pull Request 本质上是一种协同工作的机制，可以进行基于网络�
    git push
    ```
 
+![下载到本地](https://images.gitee.com/uploads/images/2021/0410/150637_0c8c1499_8456984.gif "下载项目到本地.gif")
+
 6. 使用 B 帐号登录 Gitee，进入 pull_request_demo 仓库，点击 「+ Pull request」链接。
+![Pull-1](https://images.gitee.com/uploads/images/2021/0410/150654_687717a7_8456984.png "pull_requests1.png")
+![Pull-2](https://images.gitee.com/uploads/images/2021/0410/150708_fe12dee3_8456984.png "pull_requests2.png")
 
 7. 选择 源分支 和 目标分支。
+![源分支](https://images.gitee.com/uploads/images/2021/0410/150915_d55c2b70_8456984.png "源分支.png")
+![目标分支](https://images.gitee.com/uploads/images/2021/0410/150928_84fd4489_8456984.png "目标分支.png")
 
 8. 填写提交说明后，点击「创建」按钮。
+![填写说明](https://images.gitee.com/uploads/images/2021/0410/150946_953a2d7e_8456984.png "pull_requests3.png")
+![点击创建](https://images.gitee.com/uploads/images/2021/0410/155106_78a14137_8456984.png "点击创建.png")
 
 9. 使用 A 帐号登录 Gitee，进入 pull_request_demo 项目。
+![进入项目](https://images.gitee.com/uploads/images/2021/0410/160712_621d0351_8456984.png "进入项目.png")
 
 10. 可以看到 Pull request 中有新的数据。
+![有数据](https://images.gitee.com/uploads/images/2021/0410/160726_a311f8f8_8456984.png "有新数据.png")
 
 11. 点击「合并」按钮，即可完成。
+![合并](https://images.gitee.com/uploads/images/2021/0410/160740_eff52230_8456984.gif "合并.gif")
 
 ##### Github
 
