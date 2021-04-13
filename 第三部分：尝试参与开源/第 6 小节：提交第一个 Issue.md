@@ -307,13 +307,13 @@ Gitee 支持的提交方式有（比如我们需要关闭的 Issue 编号为 24�
 
 ### 参考资料
 
-[1] [https://guides.github.com/features/issues/](https://guides.github.com/features/issues/)
+[1] [了解Issues](https://guides.github.com/features/issues/)
 
-[2] [https://zhuanlan.zhihu.com/p/75691927](https://zhuanlan.zhihu.com/p/75691927)
+[2] [正确的提问方式](https://zhuanlan.zhihu.com/p/75691927)
 
-[3] [https://blog.csdn.net/lovewinner/article/details/80763629](https://blog.csdn.net/lovewinner/article/details/80763629)
+[3] [Issue标签说明](https://blog.csdn.net/lovewinner/article/details/80763629)
 
-[4] [https://www.jianshu.com/p/5ba1e7f5ad70](https://www.jianshu.com/p/5ba1e7f5ad70)
+[4] [Issue的使用](https://www.jianshu.com/p/5ba1e7f5ad70)
 
 ### 本部分内容贡献者
 [雪山凌狐](https://gitee.com/xueshanlinghu)、[taotieren](https://gitee.com/taotieren)、[吴烜](https://gitee.com/zhishi)
