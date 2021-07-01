@@ -239,7 +239,7 @@ GitHub 提供了一份审核原则，帮助大家更加友好高效地进行 PR 
 
 具体步骤如下图所示。
 
-![image-20210630162703535](/Users/didi/Pictures/xs/PR-GiteeCR.png)
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0701/153036_247bbc53_1899066.png "屏幕截图.png")
 
 ## Pull Request 持续集成与部署
 
@@ -271,17 +271,17 @@ GitHub 提供了 GitHub Actions 功能，通过构建 workflow、job、step、ac
 
 如下图所示，在仓库下点击 Actions 页面，可以通过“set up a workflow yourself”创建一个自定义流程，也可以从下方选择对应的 Action 成品。
 
-![image-20210630150737003](/Users/didi/Pictures/xs/PR-GitHubAction.png)
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0701/153011_d625f1ff_1899066.png "屏幕截图.png")
 
 此外，GitHub 还提供了 [Actions 集市（Actions Marketplace）](https://github.com/marketplace?type=actions)，集市中囊括了所有 Action。你可以从集市中挑选你需要的 Action 成品，也可以将自己构建好的 Action 通过集市分享出来。
 
 **Gitee DevOps**
 
-Gitee 平台
+Gitee 提供了 Gitee DevOps 功能，通过集成第三方服务来实现 CI/CD 的操作。
 
 如下图所示，Gitee 平台目前支持：Gitee Go、百度效率云、腾讯云托管、腾讯云 Serverless、Jenkins for Gitee 等集成方式。
 
-![PR-GiteeDevOps](/Users/didi/Pictures/xs/PR-GiteeDevOps.png)
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0701/153021_0701f7f6_1899066.png "屏幕截图.png")
 
 ## 本部分内容贡献者
 
