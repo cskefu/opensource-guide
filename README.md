@@ -43,7 +43,7 @@
 为保证电子文档的内容更有参考价值，Gitee 内容组特别邀请了几位技术专家担任本次的审校人员（以下名单按首字母排序）：    
        
 **代立冬**       
-易观大数据平台总监，负责每日数百亿条数据处理链条的架构设计，技术选型，技术攻关等工作。十分热爱开源，是大数据任务调度 - Apache DolphinScheduler 的 PPMC & Committer，也活跃于各个大数据开源社区。  
+白鲸开源联合创始人，Apache 软件基金会会员，开源积极分子，是十分流行的大数据任务调度 - Apache DolphinScheduler PMC Chair 和数据集成平台 - Apache SeaTunnel(incubator) PPMC 及 Apache 孵化器导师，也活跃于各个大数据开源社区。  
      
 **姜宁**       
 华为开源能力中心技术专家，Apache 软件基金会会员，前红帽软件主任软件工程师，在企业级开源中间件开发方面有十余年经验，有丰富的 Java 开发和使用经验，函数式编程爱好者。从 2006 年开始一直从事 Apache 开源中间件项目的开发工作，先后参与 Apache CXF，Apache Camel，以及 Apache ServiceMix 的开发。             
