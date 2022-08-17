@@ -28,7 +28,7 @@
 
 错别字/标点修改、错误内容更正、内容更新、内容补充，甚至是新章节的设置，只要你有想法并通过组委会/审校专家团队的审核，我们就一起去实现它！
 
-#### 如何贡献
+#### 如何进行贡献
 
 可以通过提交 [Issue](https://gitee.com/gitee-community/opensource-guide/issues/new?issue%5Bassignee_id%5D=0&issue%5Bmilestone_id%5D=0) 和 PR 的方式对「开源指北」做出贡献或是提出需求，更详尽的步骤可以参考[贡献指南](./贡献指南.md)。
 
